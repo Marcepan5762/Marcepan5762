@@ -1,7 +1,7 @@
 git - program - system kontroli wersji
 	obslugiwane wylocznie z konsoli, moze byc niewygodne
 
-trochę o konsoli ---- v
+trochę o konsoli -- v
 d:
 c:
 mkdir nazwakatalogu  - tak mozna stwozyc katalogs
