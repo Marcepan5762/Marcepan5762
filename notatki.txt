@@ -1,0 +1,28 @@
+git - program - system kontroli wersji
+	obslugiwane wylocznie z konsoli, moze byc niewygodne
+
+trochę o konsoli ---- v
+d:
+c:
+mkdir nazwakatalogu  - tak mozna stwozyc katalogs
+cd \
+dir  - listowanie zawartosci katalogu
+cd projects   - tak się wchodzi do katalogu
+
+git --versions
+git status - pokazuje obecny status projektu
+git add index.html   - dodajemy plik do sledzenia
+
+gitkraken - nakladka grawiczna
+github - jest strona internetowa ktora dostarcza "repozytoria"
+
+
+
+
+
+
+
+
+
+
+
