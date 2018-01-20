@@ -1,6 +1,10 @@
 git - program - system kontroli wersji
 	obslugiwane wylocznie z konsoli, moze byc niewygodne
 
+	https://github.com/Marcepan5762
+	
+	https://marcepan5762.github.io/Marcepan5762/
+	
 trochę o konsoli -- v
 d:
 c:
