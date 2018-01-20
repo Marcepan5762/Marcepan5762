@@ -8,7 +8,7 @@ mkdir nazwakatalogu  - tak mozna stwozyc katalogs
 cd \
 dir  - listowanie zawartosci katalogu
 cd projects   - tak się wchodzi do katalogu
-
+test
 git --versions
 git status - pokazuje obecny status projektu
 git add index.html   - dodajemy plik do sledzenia
